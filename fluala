@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sito a Tema Ciclismo</title>
+</head>
+<body>
+    <header>
+        <h1>Benvenuto nel sito di ciclismo</h1>
+        <nav>
+            <ul>
+                <li><a href="#tour">Tour de France</a></li>
+                <li><a href="#giro">Giro d'Italia</a></li>
+                <li><a href="#vuelta">Vuelta a España</a></li>
+                <li><a href="#milano">Milano-Sanremo</a></li>
+                <li><a href="#parigi">Parigi-Roubaix</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="tour">
+            <h2>Risultati Tour de France</h2>
+            <ul>
+                <li>1° Tadej Pogacar</li>
+                <li>2° Jonas Vingegaard</li>
+                <li>3° Remco Evenepoel</li>
+            </ul>
+        </section>
+
+        <section id="giro">
+            <h2>Risultati Giro d'Italia</h2>
+            <ul>
+                <li>1° Tadej Pogacar</li>
+                <li>2° Daniel Martinez</li>
+                <li>3° Geraint Thomas</li>
+            </ul>
+        </section>
+
+        <section id="vuelta">
+            <h2>Risultati Vuelta a España</h2>
+            <ul>
+                <li>1° Primoz Roglic</li>
+                <li>2° Ben O'Connor</li>
+                <li>3° Enric Mas</li>
+            </ul>
+        </section>
+
+        <section id="milano">
+            <h2>Risultati Milano-Sanremo</h2>
+            <ul>
+                <li>1° Jasper Philipsen</li>
+                <li>2° Michael Matthews</li>
+                <li>3° Tadej Pogacar</li>
+            </ul>
+        </section>
+
+        <section id="parigi">
+            <h2>Risultati Parigi-Roubaix</h2>
+            <ul>
+                <li>1° Mathieu van der Poel</li>
+                <li>2° Jasper Philipsen</li>
+                <li>3° Mads Pedersen</li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Sito a Tema Ciclismo</p>
+    </footer>
+</body>
+</html>
